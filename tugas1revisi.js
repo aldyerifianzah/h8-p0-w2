@@ -3,8 +3,8 @@ const KalimatKsatria = 'kamu dapat menyerang dengan senjatamu!';
 const KalimatPenyihir = 'ciptakan keajaiban yang membantu kemenanganmu!';
 
 //input
-var nama ='asdasd';
-var peran ='';
+var nama ='Lany';
+var peran ='Tabib';
 
 
 if(nama!=='' && peran ===''){
