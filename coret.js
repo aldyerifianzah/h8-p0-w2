@@ -1,4 +1,4 @@
-var nama = 'aldy erifianzah jancuk';
+var nama = 'aldy erifianzah';
 console.log(nama[0]);
 console.log(nama.length);
 console.log("keren banget".charAt(0));
@@ -43,7 +43,7 @@ var pesan1 = "aku sayang";
 
 console.log(pesan1.toLowerCase());
 
-//.trim()
+//.trim() menghapus whitespace
 
 var username = ' admin ';
 var newUser = username.trim();
