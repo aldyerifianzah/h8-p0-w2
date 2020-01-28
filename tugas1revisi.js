@@ -3,11 +3,11 @@ const KalimatKsatria = 'kamu dapat menyerang dengan senjatamu!';
 const KalimatPenyihir = 'ciptakan keajaiban yang membantu kemenanganmu!';
 
 //input
-var nama ='Lauv';
-var peran ='Penyihir';
+var nama ='asdasd';
+var peran ='';
 
 
-if(nama==='Aldy' && peran ===''){
+if(nama!=='' && peran ===''){
     console.log(`halo ${nama}, pilih peranmu untuk memulai game! `);
 
 }else if(nama==='Neke' && peran==='Ksatria'){
